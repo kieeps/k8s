@@ -1,3 +1,4 @@
 #cloud-config
 ssh_authorized_keys:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJlwuNxqUquS9eoaGk4qmqKOqjj+AxAJAsoAdmv4vplr kieeps@Lappen
+hostname: Rancher001
